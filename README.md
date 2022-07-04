@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @LidianeDiniz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in help as much as possible, and also be helped.
+- 🌱 I’m currently learning HTML|CSS|javaScript|Node.js
+- 💞️ I’m looking to collaborate on any work that can develop my abilities.
+- 📫 lidianefernandesdiniz.lfd@gmail.com
+- 👩 https://www.linkedin.com/in/lidiane-cristina-diniz/ 
 
 <!---
 LidianeDiniz/LidianeDiniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
