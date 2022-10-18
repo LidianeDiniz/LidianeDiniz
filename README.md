@@ -1,10 +1,14 @@
-## Hello 👋 I'm Lidiane Diniz!
-
-
-- 🌱 I'm currently learning frontend development
-- 😄 Pronouns: she/her
-
--->
+<div>
+  
+  <h1 align="center">
+    Oi Tudo bem? 
+  </h1>
+  
+  <p align="center">
+    Meu nome é 
+    <a href="https://www.linkedin.com/in/lidiane-cristina-diniz/">Lidiane Diniz😃️</a>
+    Sou Desenvolvedora Front End estudante na <a href="https://www.rocketseat.com.br/">Rocketseat👩‍💻</a>, gosto muito de compartilhar meus conhecimentos e aprendizados, estou sempre em busca de novos desafios, e minha curiosidade é o que me move sempre em busca do novo.</p>
+ 
 <div align="center">
   <a href="https://github.com/LidianeDiniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LidianeDiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,7 +24,7 @@
 <img align="center" alt="Lidi-sqlite" height="30" width="40" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />     <img align="center" alt="Lidi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Lidi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+ <img align="right" alt="Lidi-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/338224_iHZz1iLw.png">
 </div>
 
 ##
