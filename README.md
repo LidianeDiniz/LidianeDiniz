@@ -9,11 +9,14 @@
     <a href="https://www.linkedin.com/in/lidiane-cristina-diniz/">Lidiane Diniz😃️</a>
     Sou Desenvolvedora Front End estudante na <a href="https://www.rocketseat.com.br/">Rocketseat👩‍💻</a>, gosto muito de compartilhar meus conhecimentos e aprendizados, estou sempre em busca de novos desafios, e minha curiosidade é o que me move sempre em busca do novo.</p>
  
-<div align="center">
-  <a href="https://github.com/LidianeDiniz/LidianeDiniz">
-  <img height="180em" src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LidianeDiniz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)username=LidianeDiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <div align="center">
+    
+   <a href="https://github.com/LidianeDiniz/LidianeDiniz">
+  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LidianeDiniz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)username=LidianeDiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidianeDiniz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  
+  </div>
+ 
 
 
 <div style="display: inline_block"><br>
