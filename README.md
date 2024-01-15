@@ -6,8 +6,10 @@
   
   <p align="center">
     Meu nome é 
-    <a href="https://www.linkedin.com/in/lidiane-cristina-diniz/">Lidiane Diniz😃️</a>
-    Sou Desenvolvedora Front End estudante na <a href="https://www.rocketseat.com.br/">Rocketseat👩‍💻</a>, gosto muito de compartilhar meus conhecimentos e aprendizados, estou sempre em busca de novos desafios, e minha curiosidade é o que me move sempre em busca do novo.</p>
+ <a href="https://www.linkedin.com/in/lidiane-cristina-diniz/">Lidiane Diniz 😃️</a>
+
+Sou uma Desenvolvedora Full Stack, atualmente em estágio na <a href="https://www.planium.io/">Planium</a>, e estou cursando Análise e Sistemas de Informação na <a href="https://www.estacio.br/">Estácio 👩‍💻</a>. Gosto muito de compartilhar meus conhecimentos e aprendizados. Estoue sempre em busca de novos desafios, e minha curiosidade me leva a explorar o novo continuamente.</p>
+
  
   <div align="center">
     
