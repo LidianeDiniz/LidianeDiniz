@@ -4,15 +4,15 @@ Oi, eu sou a Lidiane Diniz, uma desenvolvedora Full-Stack apaixonada por transfo
 
 ## Sobre Mim
 - 💻 Desenvolvedora Full-Stack
+
 ## Habilidades e Ferramentas 🔧
 - React.js, Next.js, Node.js, PHP, Javascript, Typescript
 
-###  Portfólio clique👉[aqui](https://my-portfolio-ko4lgb75a-lidianediniz.vercel.app)
-- 🚀Aqui você encontra um pouco mais sobre mim.
-- 🛠️ Tecnologias: React.js, Next.js.
-- 🌈 [Link repsositorio](https://github.com/LidianeDiniz/My_Portfolio)
+## Portfólio 🚀
+Clique 👉 [aqui](https://my-portfolio-ko4lgb75a-lidianediniz.vercel.app) para explorar meu portfólio, onde você encontrará mais sobre mim. 🌈
 
-
+- 🛠️ Tecnologias utilizadas: React.js, Next.js.
+- 🌐 [Repositório do Portfólio](https://github.com/LidianeDiniz/My_Portfolio)
 
 <picture>
 
