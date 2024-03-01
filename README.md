@@ -25,7 +25,7 @@ npm install
 
 # Execute o projeto
 npm start
-
+```
 
 
 <picture>
